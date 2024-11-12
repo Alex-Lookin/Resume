@@ -1,0 +1,24 @@
+.header-wrapper {
+    max-width: 2480px;
+    max-height: 1360px;
+    padding-top: 100px;
+    margin: 0 auto;
+    background-color: var(--color-white);
+}
+
+.title-foto-wrapper{
+    max-width: 2480px;
+    
+
+}
+
+.foto {
+    border-radius: 360px;
+}
+
+.general-title{
+    font-size: 180px;
+    font-weight: 600;
+    line-height: 100%;
+    max-width: 1200px;
+}
